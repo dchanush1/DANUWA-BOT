@@ -18,9 +18,9 @@ const defaultConfig = {
   OPENAI_API_KEY: "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",// Add OPENAI API key here
   GEMINI_API_KEY: "AIzaSyC89TQEqimNVA40UnNJ-spNwZXSGuiptQ0", // Add Gemini API key here
   REMOVE_BG_API_KEY:"LeSqDWZvkFbWZd18uKwSkAmE", // Add removebg API key here
-  WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
+  WEATHER_API_KEY: "b5146f233f88447fbf5161639251806", // Add your weather API key here
+  BOT_OWNER: "94743376317", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94743376317"], // Replace your bot owner number here (same as bot owner number)
   AUTO_STATUS_REACT: "true",
   AUTO_STATUS_REPLY: "true",
   AUTO_STATUS_SEEN: "true",
